@@ -1,0 +1,2 @@
+# DataGrid_SearchTextColor
+在DataGrid控件中实现搜索字体标红
